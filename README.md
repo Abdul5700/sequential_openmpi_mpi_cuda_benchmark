@@ -1,4 +1,4 @@
-# Parallel Matrix Multiplication
+# Parallel Computing
 
 > **University Lab Experiment — Parallel Computing**
 > Implementations: Sequential C · OpenMP · MPI · CUDA
